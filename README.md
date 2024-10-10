@@ -4,9 +4,9 @@ This is a documentation of class experiences and projects during data analysis t
 
 [Project Overview](#project-overview)   ||
 [Data Source](#data-source)    ||
-[Tools](tools)   ||
-[Knowledge Obtained from Training](knowledge-obtained-from-training)   ||
-[Process](process)
+[Tools](#tools)   ||
+[Knowledge Obtained from Training](#knowledge-obtained-from-the-training)   ||
+[Process](#process)
 
 ## Project Overview
 
