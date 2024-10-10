@@ -1,6 +1,6 @@
 # DATA_ANALYSIS_PROJECT
 
-This is a documentation of class experiences and projects during data analysis training I attended on The Incubator Hub x LITA platform.
+This is a documentation of class experiences and projects during data analysis training I attended on The Incubator Hub x LITA platform so far.
 
 [Project Overview](#project-overview)   ||
 [Data Source](#data-source)    ||
@@ -12,10 +12,6 @@ This is a documentation of class experiences and projects during data analysis t
 
 This purpose of this is to analyze what has being taught, beyond the classrom experiences and a project to back it up.
 The project will answer questions on how geographical factors as well as the status of a person/family could affect the charges placed on medical services.
-
-## Data Source
-
-The health cost data used for this project can be found [here](https://www.kaggle.com/datasets)
 
 ## Tools
 
@@ -53,4 +49,14 @@ The health cost data used for this project can be found [here](https://www.kaggl
 - Descriptive, diagonistic, predictive and prescriptive Analysis
 - Visualizations to demostrate insights
 
-  ## Question Definition  
+  - ## Question Definition
+  This project aims to answer for patterns influencing medical billing by exploring relationship between several variables and medical charges(target variable) and as well make informed decisions.
+  
+  - ## Data Source
+  The health cost data used for this project can be found [here](https://www.kaggle.com/datasets)
+
+  - ## Data Cleaning
+  The dataset was filtered through to check for blanks and outliers.
+
+  
+
