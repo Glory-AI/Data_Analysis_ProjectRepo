@@ -56,7 +56,8 @@ The project will answer questions on how geographical factors as well as the sta
   The health cost data used for this project can be found [here](https://www.kaggle.com/datasets)
 
   - ## Data Cleaning
-  The dataset was filtered through to check for blanks and outliers.
+  The dataset was filtered through to check for missing data and outliers which can be seen in the data filtering file.
+  I also checked for duplicates using conditional formatting on excel. 
 
   
 
