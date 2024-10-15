@@ -57,7 +57,20 @@ The project will answer questions on how geographical factors as well as the sta
 
   - ## Data Cleaning
   The dataset was filtered through to check for missing data and outliers which can be seen in the data filtering file.
-  I also checked for duplicates using conditional formatting on excel. 
+  I also checked for duplicates using conditional formatting on excel.
+  Additionally, I was able to eliminate excess decimals and added a currency to the costs on the dataset I'm working on.
+
+
+
+  |Geographical regions|	Average of medical charges|
+  |----------|-------------------|
+  |Northeast	|13406.38|
+  |Northwest	|12417.57|
+  |Southeast |14735.41|
+  |Southwest	|12346.93|
+  |Grand Total|	13270.42|
+  
+
 
   
 
