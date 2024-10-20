@@ -35,7 +35,7 @@ The project will answer questions on how geographical factors as well as the sta
 
 - How to write SQL queries
 
-- How to visualize ad manipulate data to provide reasonable insights
+- How to visualize and manipulate data to provide reasonable insights
 
 - Critical thinking
 
@@ -84,7 +84,7 @@ The project will answer questions on how geographical factors as well as the sta
   
     CONCLUSION: Efforts can be made to reduce medical costs considering this aspect by conducting campaigns to inform people about the dangerous health effects that smoking can have on the body system. Also, free healthcare events can be organized to assist affected people.
 
-   --***HOW DOES GEOGRAPHICAL REGION AFFECT MEDICAL COSTS***
+   --***HOW DOES GEOGRAPHICAL REGION AFFECT MEDICAL COSTS?***
   
    ![image](https://github.com/user-attachments/assets/1ceb6e1e-b155-44fc-be0c-cd5469215f94)
 
